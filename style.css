@@ -4253,8 +4253,8 @@ h4.payment {
 }
 
 .mobile_common {
-  gap: .1rem;
-  justify-content: center;
+    gap: .1rem;
+    justify-content: space-between;
 }
 .mobile_upper_txt {
   display: flex;
